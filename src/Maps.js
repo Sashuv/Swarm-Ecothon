@@ -43,6 +43,25 @@ function Maps() {
         }
     };
 
+    // Fetch bee data from an API
+    const fetchData = async () => {
+        try {
+            const response = await fetch('http://localhost:3001/data');  // Adjust the API endpoint as necessary
+            if (!response.ok) {
+                throw new Error('Failed to fetch bee data');
+            }
+            const jsonData = await response.json();
+            setBees(jsonData);
+            
+        } catch (error) {
+            console.error('Error fetching bee data:', error);
+        }
+    };
+
+    // Use useEffect to call fetchData when the component mounts
+    useEffect(() => {
+        fetchData();
+    }, []);
 
     return (
         <div className='container'>
