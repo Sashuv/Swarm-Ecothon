@@ -1,0 +1,68 @@
+.details-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.bee-details {
+    text-align: center;
+}
+
+.bee-name {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.bee-image {
+    width: 300px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 50px;
+}
+
+.bee-description {
+    font-size: 16px;
+    margin-bottom: 50px;
+}
+
+.contact-form {
+    max-width: 400px;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.form-group {
+    margin-bottom: 50px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+textarea {
+    resize: vertical;
+    height: 120px;
+}
+
+button[type="submit"] {
+    width: 10%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
