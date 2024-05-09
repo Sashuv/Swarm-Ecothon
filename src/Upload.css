@@ -36,6 +36,10 @@
 }
 
 .bee-image {
+<<<<<<< HEAD
+=======
+    border: 4px solid white;
+>>>>>>> 8ea440b0 (Fixed Maps, Css)
     width: 100%;
     height: 400px;
     max-width: 100%;
@@ -65,4 +69,8 @@
     visibility: hidden;
     opacity: 0;
     transition: opacity 0.3s ease;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 8ea440b0 (Fixed Maps, Css)

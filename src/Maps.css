@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .container {
     display: flex;
     align-items: center;
@@ -45,3 +46,127 @@
   }
   
 
+=======
+/* Container styling */
+.container {
+  font-family: 'Arial', sans-serif;
+  width: 100%;
+  max-width: 960px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Map styling */
+.MapContainer {
+  width: 100%;
+  height: 550px; /* Specified height for the map */
+  margin-top: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  border: 4px solid white;
+}
+
+/* Buttons styling */
+.bee-button {
+  background-color: #ffa200; /* Bumble's signature yellow */
+  border: none;
+  padding: 10px 20px;
+  margin: 10px 5px;
+  border-radius: 20px;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+}
+
+.bee-button:hover {
+  background-color: #000000; /* Darker yellow on hover */
+  color: white;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.bee-button:active {
+  transform: translateY(2px);
+}
+
+/* Title styling */
+h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Popup styling for marker popups */
+.Popup {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #333;
+}
+
+/* Link and button group styling */
+.Button-Group {
+  margin-top: 20px;
+}
+
+/* Marker popup images */
+.Popup img {
+  width: 600px; /* Fixed width for images in popups */
+  height: auto;
+  margin-top: 5px;
+  border-radius: 5px;
+}
+
+/* Audio player styling */
+audio {
+  display: none; /* Hide the audio player, control via JS */
+}
+
+/* Popup container styling */
+.leaflet-popup-content-wrapper {
+  border-radius: 8px; /* Rounded corners for the popup */
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16); /* Soft shadow for depth */
+  background-color: #fff; /* White background for clarity */
+}
+
+/* Popup tip styling */
+.leaflet-popup-tip-container {
+  width: 20px;
+  height: 10px;
+}
+
+.leaflet-popup-tip {
+  background-color: #fff; /* Match tip color with the popup content */
+}
+
+/* Inner content styling of the popup */
+.leaflet-popup-content {
+  font-family: 'Arial', sans-serif; /* Consistent font style */
+  color: #333; /* Dark grey for text for better readability */
+  font-size: 14px; /* Appropriate text size for content */
+  line-height: 1.4; /* Good line height for readability */
+  /* padding: 12px 15px; Padding inside the popu */
+  display: flex; /* Using flex to better manage layout */
+  flex-direction: column; /* Column layout for structured appearance */
+  align-items: center; /* Center aligning the content */
+}
+
+/* Image styling within the popup */
+.leaflet-popup-content img {
+  width: 100px; /* Fixed width for images */
+  height: auto; /* Auto height to maintain aspect ratio */
+  margin-top: 5px; /* Margin top for spacing */
+  border-radius: 5px; /* Rounded corners for images */
+}
+
+/* Additional styling for text and titles */
+.leaflet-popup-content b {
+  color: #007bff; /* Light blue color for headings/bold text */
+  font-size: 16px; /* Slightly larger font size for emphasis */
+}
+
+/* Paragraph styling within the popup */
+.leaflet-popup-content p {
+  margin: 5px 0; /* Margin for paragraph spacing */
+}
+>>>>>>> 8ea440b0 (Fixed Maps, Css)

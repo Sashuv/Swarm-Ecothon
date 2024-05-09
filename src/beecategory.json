@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+<<<<<<< HEAD
         "name": "Honey Bee",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_Western_honey_bee.jpg",
         "description": "Honey bees are known for their production of honey and are vital pollinators.",
@@ -19,11 +20,41 @@
                 "flowerName": "flower3",
                 "description": "description3",
                 "flowerImageUrl":"3.jpg"
+=======
+        "name": "Himalayan giant honey bee",
+        "Scientificname": "Apis laboriosa",
+        "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/108395224/medium.jpg",
+        "Appearance": "The Himalayan Giant Honeybee, or Apis laboriosa, earns its name with its large size compared to other honeybee species. These bees typically measure around 17 to 20 millimeters in length and have distinctive dark brown to black coloration. They are easily recognizable by their robust build and loud buzzing flight.",
+        "Habitat": "Apis laboriosa is native to the Himalayan region, where it inhabits rugged mountainous terrain at high altitudes. They construct their large, single-comb nests on cliff faces or rocky overhangs, often at altitudes exceeding 2,500 meters.",
+        "Behavior": "Himalayan Giant Honeybees exhibit highly social behavior, living in colonies consisting of a queen, drones, and worker bees. They are known for their remarkable ability to withstand cold temperatures and forage at high altitudes, making them well-adapted to their mountainous habitat.",
+        "flowers": [
+            {
+                "flowerName": "Rhododendron spp.",
+                "description": "The vibrant flowers of various Rhododendron species are favored by Himalayan Giant Honeybees. In Nepali, Rhododendron is known as Gurans.",
+                "flowerImageUrl": "https://www.treesandshrubsonline.org/site/assets/files/7299/rhododendron-hodgsonii-7.jpg",
+                "environments": ["Cool temperate forests", "High altitude areas", "Acidic soil conditions", "Partial shade to full sun exposure"],
+                "benefits": ["Enhances biodiversity", "Attracts pollinators", "Erosion control", "Source of herbal medicine"]
+            },
+            {
+                "flowerName": "Wild Himalayan Cherry",
+                "description": "The pinkish-white blossoms of Prunus cerasoides are also attractive to Apis laboriosa. In Nepali, this tree is called Pajaru.",
+                "flowerImageUrl": "2.jpg",
+                "environments": ["Temperate climates", "Well-drained soil", "Open sunlight areas", "Can tolerate mild frost"],
+                "benefits": ["Aesthetic appeal", "Supports local wildlife", "Produces edible fruits", "Used in traditional medicine"]
+            },
+            {
+                "flowerName": "Monkshood",
+                "description": "Some species of Aconitum, commonly known as Monkshood, are visited by Himalayan Giant Honeybees for their nectar. In Nepali, Aconitum is known as Bhikshachin or Vatsnabh.",
+                "flowerImageUrl": "https://extension.illinois.edu/sites/default/files/styles/600_x_440_crop/public/2023-08/web_flowers_monkshood_1200x880_gettyimages-846069016.jpg?itok=AqHttAJx",
+                "environments": ["Mountainous regions", "Shaded areas", "Moist soil conditions", "Cool climate"],
+                "benefits": ["Medicinal properties", "Attracts pollinators", "Adds dramatic color to gardens", "Historically used in poisons and potions"]
+>>>>>>> 8ea440b0 (Fixed Maps, Css)
             }
         ]
     },
     {
         "id": 2,
+<<<<<<< HEAD
         "name": "Bumble Bee",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_Western_honey_bee.jpg",
         "description": "Bumble bees are larger than honey bees and are also excellent pollinators.",
@@ -42,11 +73,41 @@
                 "flowerName": "flower6",
                 "description": "description6",
                 "flowerImageUrl":"1.jpg"
+=======
+        "name": "Red dwarf honey bee",
+        "Scientificname": "Apis florea",
+        "imageUrl": "https://indiabiodiversity.org/files-api/api/get/raw/observations//f7808fea-858a-4d85-8579-562a62983d89/97.JPG",
+        "Appearance": "Apis florea, commonly known as the Dwarf Honeybee, is characterized by its diminutive size and distinctive coloration. With a body length of approximately 7 to 9 millimeters, these bees are notably smaller than other honeybee species. They feature a yellowish-brown thorax and abdomen, often with darker bands or stripes. Despite their small stature, Apis florea possesses the same general body structure as other honeybees, including wings and specialized mouthparts for collecting nectar and pollen.",
+        "Habitat": "Apis florea is native to regions of South and Southeast Asia, where it thrives in warm climates with abundant floral resources. These bees are well-adapted to a variety of habitats, including tropical forests, savannas, and agricultural landscapes. They construct small, exposed nests in protected locations, such as tree branches, rock crevices, or human-made structures, where they build intricate honeycomb structures to rear their young.",
+        "Behavior": "The behavior of Apis florea is characterized by its social structure and foraging habits. Like other honeybee species, Apis florea lives in colonies consisting of a queen, drones, and worker bees. These bees exhibit remarkable cooperation and communication within their colonies, working together to gather nectar and pollen, care for the brood, and defend their nest from potential threats. Apis florea is also known for its swarming behavior, during which a colony splits to establish a new nest site.",
+        "flowers": [
+            {
+                "flowerName": "Prickly Water Lily",
+                "description": "Apis florea is attracted to the flowers of Euryale ferox, a floating aquatic plant native to Asia. In Nepali, it is commonly known as  (Makhana).",
+                "flowerImageUrl": "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQrsSGoO8nZQc9jvLp241lI0JPdm6UGVUJMm_T-ktQar5d2j9cjui4w1WeM2QEtdHyGgW6pDbcTmKVlxY0",
+                "environments": ["Still or slow-moving water bodies", "Full sun exposure", "Nutrient-rich aquatic soil", "Tropical to subtropical climates"],
+                "benefits": ["Aesthetic aquatic addition", "Provides habitat for aquatic life", "Natural water filtration", "Edible seeds used in Asian cuisine"]
+            },
+            {
+                "flowerName": "Indian coral tree",
+                "description": "The vibrant red flowers of Erythrina variegata are another favorite of Apis florea. In Nepali, this tree is known as Mandar.",
+                "flowerImageUrl": "https://d2seqvvyy3b8p2.cloudfront.net/51ecf48fc52e9ee7b3e2a02e0da4fd04.jpg",
+                "environments": ["Tropical and subtropical climates", "Well-drained fertile soil", "Full sunlight", "Can tolerate drought conditions"],
+                "benefits": ["Striking ornamental tree", "Nectar-rich flowers attract diverse pollinators", "Used in traditional medicine", "Provides shade and shelter"]
+            },
+            {
+                "flowerName": "Amaranthus spp.",
+                "description": "Apis florea is also drawn to the small, inconspicuous flowers of various Amaranthus species. In Nepali, Amaranthus is known as (Latte Saag)",
+                "flowerImageUrl": "https://www.learnseedsaving.com/wp-content/uploads/2021/10/amaranthus_caudatus.jpgjpg",
+                "environments": ["Warm climates", "Well-drained soil", "Full sun to partial shade", "Tolerates poor soil fertility"],
+                "benefits": ["Nutritious leaves and seeds", "Attracts a variety of pollinators", "Easy to grow", "Used in traditional dishes and herbal remedies"]
+>>>>>>> 8ea440b0 (Fixed Maps, Css)
             }
         ]
     },
     {
         "id": 3,
+<<<<<<< HEAD
         "name": "Carpenter Bee",
         "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_Western_honey_bee.jpg",
         "description": "Carpenter bees are solitary bees that bore into wood to make their nests.",
@@ -65,6 +126,131 @@
                 "flowerName": "flower9",
                 "description": "description9",
                 "flowerImageUrl":"1.jpg"
+=======
+        "name": "Asian honeybee",
+        "Scientificname": "Apis cerana",
+        "imageUrl": "https://static.inaturalist.org/photos/2033079/large.jpg",
+        "Appearance": "Apis cerana, or the Eastern Honeybee, is similar in appearance to the Western Honeybee but slightly smaller. They have a compact body with golden-brown coloration and darker bands across the abdomen.",
+        "Habitat": "Apis cerana is found throughout South and Southeast Asia, inhabiting a variety of habitats including forests, grasslands, and agricultural landscapes. They typically nest in tree hollows, rock crevices, or man-made structures.",
+        "Behavior": "Apis cerana is a highly adaptable and social species, living in colonies with a queen, drones, and worker bees. They are known for their efficiency as pollinators and their ability to thrive in diverse environments.",
+        "flowers": [
+            {
+                "flowerName": "Neem",
+                "description": "The small, white flowers of the Neem tree are favored by Apis cerana for their nectar.",
+                "flowerImageUrl": "https://onszaden.com//Files/10/221000/221010/ProductPhotos/Large/1763410857.jpg",
+                "environments": ["Tropical and subtropical climates", "Well-drained soils", "Full to partial sunlight", "Can tolerate dry conditions"],
+                "benefits": ["Pest repellent properties", "Medicinal uses", "Drought resistant", "Improves soil fertility"]
+            },
+            {
+                "flowerName": "Ashoka Tree",
+                "description": "The vibrant red flowers of the Ashoka tree are another favorite of Apis cerana. In Nepali, this tree is known as Mandar.",
+                "flowerImageUrl": "https://www.ugaoo.com/cdn/shop/articles/Saraca-asoka.jpg?v=1661874643",
+                "environments": ["Tropical climates", "Prefers moist, well-drained soil", "Partial shade to full sun", "Requires regular watering"],
+                "benefits": ["Ornamental beauty", "Cultural significance in South Asia", "Attracts a variety of pollinators", "Used in traditional medicine"]
+            },
+            {
+                "flowerName": "Lantana camara",
+                "description": "The colorful clusters of flowers on the Lantana plant are also visited by Apis cerana. In Nepali, Lantana is known as Chandni or Sugandhan.",
+                "flowerImageUrl": "https://iasbaba.com/wp-content/uploads/2023/01/lc11.jpg",
+                "environments": ["Adaptable to various climates", "Thrives in well-drained soil", "Full sunlight is ideal", "Tolerant of drought and poor soils"],
+                "benefits": ["Attracts a wide range of pollinators", "Durable and resilient landscaping plant", "Variety of colors enhances garden aesthetics", "Can be used to control erosion"]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Rock bee",
+        "Scientificname": "Apis dorsata",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bidens-Apis_dorsata-pollen_baskets.jpg",
+        "Appearance": "Apis dorsata, also known as the Giant Honeybee, is notable for its large size and distinctive behavior.",
+        "Habitat": "Found in tropical and subtropical regions across South and Southeast Asia.",
+        "Behavior": "Known for defensive behavior and elaborate nest-building process.",
+        "flowers": [
+            {
+                "flowerName": "Neem",
+                "description": "The small, white flowers of the Neem tree are favored by Apis dorsata for their nectar.",
+                "flowerImageUrl": "https://onszaden.com//Files/10/221000/221010/ProductPhotos/Large/1763410857.jpg",
+                "environments": ["Tropical climates", "Dry regions", "Well-drained sandy soil", "Full sun exposure"],
+                "benefits": ["Medicinal properties", "Pest repellent", "Drought-resistant", "Air purification"]
+            },
+            {
+                "flowerName": "Ashoka Tree",
+                "description": "The vibrant red flowers of the Ashoka tree attract Apis dorsata.",
+                "flowerImageUrl": "https://www.ugaoo.com/cdn/shop/articles/Saraca-asoka.jpg?v=1661874643",
+                "environments": ["Tropical and subtropical climates", "Moist, well-drained soil", "Partial to full sun exposure", "Sheltered from strong winds"],
+                "benefits": ["Ornamental value", "Traditional medicinal uses", "Shade providing", "Attracts diverse wildlife"]
+            },
+            {
+                "flowerName": "Lantana camara",
+                "description": "Apis dorsata is also drawn to the colorful clusters of Lantana camara.",
+                "flowerImageUrl": "https://iasbaba.com/wp-content/uploads/2023/01/lc11.jpg",
+                "environments": ["Warm climates", "Tolerates poor soil", "Full sun", "Drought tolerant"],
+                "benefits": ["Invasive control in certain regions", "Attracts butterflies and bees", "Low maintenance", "Colorful addition to landscapes"]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "European honey bee",
+        "Scientificname": "Apis mellifera",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_Western_honey_bee.jpg",
+        "Appearance": "Commonly known as the Western Honeybee, shares similarities with other species but is often slightly larger.",
+        "Habitat": "Native to Europe, Africa, and the Middle East but introduced worldwide.",
+        "Behavior": "Known for its social behavior and efficient foraging strategies.",
+        "flowers": [
+            {
+                "flowerName": "Rattlepod",
+                "description": "Apis mellifera is attracted to the flowers of various Crotalaria species.",
+                "flowerImageUrl": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRqpxJZFSH4Mah563uVrDDbxYnzrph7nMPuV39ERp00gMSnI9dHVq4B9YqUJQcLfB2K2ltTERl_Ti9L7H8",
+                "environments": ["Temperate to tropical climates", "Well-drained soil", "Full sun exposure", "Resistant to pests"],
+                "benefits": ["Soil improvement", "Erosion control", "Nitrogen fixation", "Wildlife habitat enhancement"]
+            },
+            {
+                "flowerName": "Eucalyptus",
+                "description": "The flowers of Eucalyptus trees are visited by both Giant Honeybees and Western Honeybees.",
+                "flowerImageUrl": "https://www.ugaoo.com/cdn/shop/articles/Saraca-asoka.jpg?v=1661874643",
+                "environments": ["Wide range of climates", "Well-drained soils", "Full sunlight", "Tolerates dry spells"],
+                "benefits": ["Medicinal eucalyptus oil", "Fast-growing wood source", "Windbreak and shade", "Habitat for wildlife"]
+            },
+            {
+                "flowerName": "Clover",
+                "description": "Clover flowers are popular with both Apis dorsata and Apis mellifera.",
+                "flowerImageUrl": "https://www.thespruce.com/thmb/u5pQqkGM51lG7fgCsX7AHticsno=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/growing-white-clover-trifolium-repens-5101230-hero-e134e5d705eb48309508c55110bff91d.jpg",
+                "environments": ["Temperate climates", "Prefers rich, moist soils", "Full sun to partial shade", "Tolerates moderate traffic"],
+                "benefits": ["Lawn replacement or addition", "Nitrogen fixation enhances soil", "Attracts beneficial insects", "Edible and medicinal properties"]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Arcifera Stingless Bee",
+        "Scientificname": "Lepidotrigona arcifera",
+        "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/57160358/medium.jpg",
+        "Appearance": "A petite and striking insect with a body length ranging from 3 to 5 millimeters.",
+        "Habitat": "Thrives in the lush tropical forests of Southeast Asia.",
+        "Behavior": "Characterized by their harmonious and industrious nature.",
+        "flowers": [
+            {
+                "flowerName": "Malabar Melastome",
+                "description": "These bees are drawn to the striking purple blossoms of the Malabar Melastome.",
+                "flowerImageUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTQoBWzYGbXEtF7beN1EJ0mvqPe5nc8ulsR-UjEwIrd1G_2AIl",
+                "environments": ["Tropical rainforests", "High humidity", "Well-drained acidic soils", "Partial shade"],
+                "benefits": ["Attracts a wide range of pollinators", "Ornamental plant", "Medicinal properties", "Supports biodiversity"]
+            },
+            {
+                "flowerName": "Dillenia suffruticosa",
+                "description": "Known as Simpoh Air, its large, showy yellow flowers attract these bees.",
+                "flowerImageUrl": "https://static.inaturalist.org/photos/82667466/large.jpg",
+                "environments": ["Tropical climates", "Moist, well-drained soil", "Full sun to partial shade", "Can grow in wet conditions"],
+                "benefits": ["Ornamental value", "Fruit is edible and nutritious", "Attracts diverse pollinators", "Used in traditional medicine"]
+            },
+            {
+                "flowerName": "Dendrobium speciosum",
+                "description": "Known as the Rock Orchid, it provides a rich source of nectar for these industrious bees.",
+                "flowerImageUrl": "https://resources.austplants.com.au/wp-content/uploads/d-speciosum-short-canes-e1684421540301.jpeg",
+                "environments": ["Subtropical to temperate regions", "Epiphytic or lithophytic conditions", "Bright indirect light", "Requires high humidity"],
+                "benefits": ["Highly ornamental", "Popular in horticulture", "Attracts bees and other pollinators", "Can be cultivated on trees or rocks"]
+>>>>>>> 8ea440b0 (Fixed Maps, Css)
             }
         ]
     }

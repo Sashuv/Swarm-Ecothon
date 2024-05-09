@@ -123,14 +123,20 @@ function Maps() {
 
     return (
         <div className='container'>
+<<<<<<< HEAD
             <h1>Bee Map</h1>
             <MapContainer style = {{width: '900px', height: '550px'}}center={center} zoom={ZOOM} ref={mapRef}>
+=======
+            <h1>Interactive Bee-Map</h1>
+            <MapContainer className = 'MapContainer' style = {{width: '900px', height: '550px'}}center={center} zoom={ZOOM} ref={mapRef}>
+>>>>>>> 8ea440b0 (Fixed Maps, Css)
                 {location.loaded && !location.error && (
                     <Marker icon={personIcon} position={[location.coordinates.lat, location.coordinates.lng]}></Marker>
                 )}
                 <TileLayer url={osm.maptiler.url} attribution={osm.maptiler.attribution} />
                 {bees.map((bee, idx) => (
                     <Marker key={idx} position={[bee.Latitude, bee.Longitude]} icon={markerIcon}>
+<<<<<<< HEAD
                         <Popup>
                             <b>{bee['bee-type']}</b><br />
                             <img src={bee.ImageUrl} alt={bee['bee-type']} style={{width: '100px'}} /><br />
@@ -139,6 +145,18 @@ function Maps() {
                             <p>{bee.Username}</p>
                         </Popup>
                     </Marker>
+=======
+                    <Popup>
+                    <strong><p>{bee.Username}</p></strong>
+                        <b>{bee['bee-type']}</b><br />
+                        <img src={bee.ImageUrl} alt={bee['bee-type']} style={{width: '200px'}} /><br />
+                        Latitude: {bee.Latitude}, Longitude: {bee.Longitude}
+                        <p>{bee.Caption}</p>
+                        
+                    </Popup>
+                </Marker>
+                
+>>>>>>> 8ea440b0 (Fixed Maps, Css)
                 ))}
             </MapContainer>
             <audio src='../audio/sui.mp3' ref={audioRef} type='audio/mp3' />  {/* Audio element with no controls */}
@@ -154,11 +172,19 @@ function Maps() {
     pathname: '/nearme',
 
 }} >
+<<<<<<< HEAD
     <button className='bee-button' onClick={findNearbyBees}>I want a bee</button>
+=======
+    <button className='bee-button' onClick={findNearbyBees}>I Want A Bee</button>
+>>>>>>> 8ea440b0 (Fixed Maps, Css)
 </Link>
 </div>
         </div>
     );
 }
 
+<<<<<<< HEAD
 export default Maps;
+=======
+export default Maps;
+>>>>>>> 8ea440b0 (Fixed Maps, Css)
