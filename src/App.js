@@ -1,20 +1,16 @@
-import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom';
-
 import './App.css';
-
+import Maps from './Maps';
+import {Routes,Route} from 'react-router-dom'
+import Upload from './Upload';
+import Details from './Details';
 function App() {
   return (
-    <div className="App">
-        <Router>
-          <Switch>
-            <Route exact path="/" component={Home} />
-            <Route path="/upload" component={Upload} />
-            <Route path="/details" component={Details} />
-            <Route path='/info' component={Information}/>
-            <Route component={NotFound} />
-          </Switch>
-        </Router>
-
+    <div>
+      <Routes>
+        <Route path='/' element= {<Maps/>} />
+        <Route path='/upload' element= {<Upload/>} />
+        <Route path="/details/:beeId" element={<Details />} />
+      </Routes>
     </div>
   );
 }

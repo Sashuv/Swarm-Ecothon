@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "name": "Honey Bee",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_Western_honey_bee.jpg",
+        "description": "Honey bees are known for their production of honey and are vital pollinators.",
+        "flowers": [
+            {
+                "flowerName": "flower1",
+                "description": "description1",
+                "flowerImageUrl":"1.jpg"
+            },
+            {
+                "flowerName": "flower2",
+                "description": "description2",
+                "flowerImageUrl":"2.jpg"
+            },
+            {
+                "flowerName": "flower3",
+                "description": "description3",
+                "flowerImageUrl":"3.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Bumble Bee",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_Western_honey_bee.jpg",
+        "description": "Bumble bees are larger than honey bees and are also excellent pollinators.",
+        "flowers": [
+            {
+                "flowerName": "flower4",
+                "description": "description4",
+                "flowerImageUrl":"4.jpg"
+            },
+            {
+                "flowerName": "flower5",
+                "description": "description5",
+                "flowerImageUrl":"1.jpg"
+            },
+            {
+                "flowerName": "flower6",
+                "description": "description6",
+                "flowerImageUrl":"1.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Carpenter Bee",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_Western_honey_bee.jpg",
+        "description": "Carpenter bees are solitary bees that bore into wood to make their nests.",
+        "flowers": [
+            {
+                "flowerName": "flower7",
+                "description": "description7",
+                "flowerImageUrl":"1.jpg"
+            },
+            {
+                "flowerName": "flower8",
+                "description": "description8",
+                "flowerImageUrl":"1.jpg"
+            },
+            {
+                "flowerName": "flower9",
+                "description": "description9",
+                "flowerImageUrl":"1.jpg"
+            }
+        ]
+    }
+]
