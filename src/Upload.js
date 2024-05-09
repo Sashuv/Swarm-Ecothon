@@ -1,19 +1,22 @@
 import React from 'react';
 import category from './beecategory.json';
 import { Link } from 'react-router-dom';
+import './Upload.css'; // Import your CSS file
 
 function Upload() {
     return (
-        <div>
-            {category.map((bee, index) => (
-                <div key={index}>
-                    {/* Wrap the clickable content inside the Link component */}
-                    <Link to={`/details/${bee.id}`} style={{ textDecoration: 'none', color: 'inherit' }}>
-                        <h1>{bee.name}</h1>
-                        <img src={bee.imageUrl} alt={bee.name} style={{ width: 200 }} />
+        <div className="upload-container">
+            <h1 className="page-title">SELECT A BEE TYPE</h1>
+            <div className="bee-grid">
+                {category.map((bee, index) => (
+                    <Link to={`/details/${bee.id}`} key={index} className="bee-link">
+                        <div className="bee-item">
+                            <img src={bee.imageUrl} alt={bee.name} className="bee-image" />
+                            <span className="bee-name">{bee.name}</span>
+                        </div>
                     </Link>
-                </div>
-            ))}
+                ))}
+            </div>
         </div>
     );
 }
