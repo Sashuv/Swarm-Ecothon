@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "Common name": " Himalayan giant honey bee",
+      "Scientific name": "Apis laboriosa",
+        "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/108395224/medium.jpg",
+        "Appearance": "The Himalayan Giant Honeybee, or Apis laboriosa, earns its name with its large size compared to other honeybee species. These bees typically measure around 17 to 20 millimeters in length and have distinctive dark brown to black coloration. They are easily recognizable by their robust build and loud buzzing flight.",
+       "Habitat": "Apis laboriosa is native to the Himalayan region, where it inhabits rugged mountainous terrain at high altitudes. They construct their large, single-comb nests on cliff faces or rocky overhangs, often at altitudes exceeding 2,500 meters.",
+        "Behavior": "Himalayan Giant Honeybees exhibit highly social behavior, living in colonies consisting of a queen, drones, and worker bees. They are known for their remarkable ability to withstand cold temperatures and forage at high altitudes, making them well-adapted to their mountainous habitat.",
+      
+       "Favorite flowers": [
+            {
+                "flowerName": "Rhododendron spp.",
+                "description": "The vibrant flowers of various Rhododendron species are favored by Himalayan Giant Honeybees. In Nepali, Rhododendron is known as(Gurans).",       
+         
+      
+                "flowerImageUrl":"https://www.treesandshrubsonline.org/site/assets/files/7299/rhododendron-hodgsonii-7.jpg"
+            },
+            {
+                "flowerName": "Wild Himalayan Cherry",
+                "description": "The pinkish-white blossoms of Prunus cerasoides are also attractive to Apis laboriosa. In Nepali, this tree is called Pajaru.",
+                "flowerImageUrl":"2.jpg"
+            },
+            {
+                "flowerName": "Monkshood",
+                "description": "Some species of Aconitum, commonly known as Monkshood, are visited by Himalayan Giant Honeybees for their nectar. In Nepali, Aconitum is known as (Bhikshachin) or (Vatsnabh).",
+                "flowerImageUrl":"https://extension.illinois.edu/sites/default/files/styles/600_x_440_crop/public/2023-08/web_flowers_monkshood_1200x880_gettyimages-846069016.jpg?itok=AqHttAJx"
+            
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "Common name": "Red dwarf honey bee",
+      "Scientific name": "Apis florea",
+        "imageUrl": "https://indiabiodiversity.org/files-api/api/get/raw/observations//f7808fea-858a-4d85-8579-562a62983d89/97.JPG",
+        "Appearance": "Apis florea, commonly known as the Dwarf Honeybee, is characterized by its diminutive size and distinctive coloration. With a body length of approximately 7 to 9 millimeters, these bees are notably smaller than other honeybee species. They feature a yellowish-brown thorax and abdomen, often with darker bands or stripes. Despite their small stature, Apis florea possesses the same general body structure as other honeybees, including wings and specialized mouthparts for collecting nectar and pollen.",
+          "Habitat": "Apis florea is native to regions of South and Southeast Asia, where it thrives in warm climates with abundant floral resources. These bees are well-adapted to a variety of habitats, including tropical forests, savannas, and agricultural landscapes. They construct small, exposed nests in protected locations, such as tree branches, rock crevices, or human-made structures, where they build intricate honeycomb structures to rear their young.",
+          "Behavior": "The behavior of Apis florea is characterized by its social structure and foraging habits. Like other honeybee species, Apis florea lives in colonies consisting of a queen, drones, and worker bees. These bees exhibit remarkable cooperation and communication within their colonies, working together to gather nectar and pollen, care for the brood, and defend their nest from potential threats. Apis florea is also known for its swarming behavior, during which a colony splits to establish a new nest site.",
+
+        "Favorite flowers": [
+            {
+                "flowerName": "Prickly Water Lily",
+                "description": "Apis florea is attracted to the flowers of Euryale ferox, a floating aquatic plant native to Asia. In Nepali, it is commonly known as  (Makhana).",
+                "flowerImageUrl":"https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcQrsSGoO8nZQc9jvLp241lI0JPdm6UGVUJMm_T-ktQar5d2j9cjui4w1WeM2QEtdHyGgW6pDbcTmKVlxY0"
+            },
+            {
+                "flowerName": "Indian coral tree",
+                "description": "The vibrant red flowers of Erythrina variegata are another favorite of Apis florea. In Nepali, this tree is known as Mandar.",
+              "flowerImageUrl":"https://d2seqvvyy3b8p2.cloudfront.net/51ecf48fc52e9ee7b3e2a02e0da4fd04.jpg"
+            },
+            {
+                "flowerName": "Amaranthus spp.",
+                "description": "Apis florea is also drawn to the small, inconspicuous flowers of various Amaranthus species. In Nepali, Amaranthus is known as (Latte Saag)",
+                "flowerImageUrl":"https://www.learnseedsaving.com/wp-content/uploads/2021/10/amaranthus_caudatus.jpgjpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "Common name": "Asian honeybee",
+      "Scientific name": "Apis cerana",
+        "imageUrl": "https://static.inaturalist.org/photos/2033079/large.jpg",
+        "Appearance": " Apis cerana, or the Eastern Honeybee, is similar in appearance to the Western Honeybee (Apis mellifera) but slightly smaller. They have a compact body with golden-brown coloration and darker bands across the abdomen.",
+          "Habitat": "Apis cerana is found throughout South and Southeast Asia, inhabiting a variety of habitats including forests, grasslands, and agricultural landscapes. They typically nest in tree hollows, rock crevices, or man-made structures.",
+
+
+          "Behavior": "Apis cerana is a highly adaptable and social species, living in colonies with a queen, drones, and worker bees. They are known for their efficiency as pollinators and their ability to thrive in diverse environments.",
+
+        "Favorite flowers": [
+            {
+                "flowerName": "Neem",
+                "description": "The small, white flowers of the Neem tree are favored by Apis cerana for their nectar.",
+                "flowerImageUrl":"https://onszaden.com//Files/10/221000/221010/ProductPhotos/Large/1763410857.jpg"
+            },
+            {
+                "flowerName": "Ashoka Tree",
+                "description": "The vibrant red flowers of Erythrina variegata are another favorite of Apis florea. In Nepali, this tree is known as Mandar).",
+              "flowerImageUrl":"https://www.ugaoo.com/cdn/shop/articles/Saraca-asoka.jpg?v=1661874643"
+            },
+            {
+                "flowerName": "Lantana camara",
+                "description": "The colorful clusters of flowers on the Lantana plant are also visited by Apis cerana. In Nepali, Lantana is known as (Chandni) or(Sugandhan).",
+
+                "flowerImageUrl":"https://iasbaba.com/wp-content/uploads/2023/01/lc11.jpg"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "Common name": "Rock bee",
+      "Scientific name": "Apis dorsata",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bidens-Apis_dorsata-pollen_baskets.jpg",
+        "Appearance": " Apis dorsata, also known as the Giant Honeybee, is notable for its large size and distinctive behavior. These bees can reach lengths of 17 to 20 millimeters, with a slender body and a characteristic V-shaped abdomen. They have a yellow-brown coloration with alternating dark and light stripes on their abdomen.",
+          "Habitat": "Giant Honeybees are found in tropical and subtropical regions across South and Southeast Asia, including India, Nepal, Thailand, and Indonesia. They often build their single-comb nests in exposed locations such as tree branches, cliffs, or human-made structures.",
+
+          "Behavior": "Apis dorsata colonies are known for their defensive behavior and elaborate nest-building process. They live in large colonies consisting of tens of thousands of individuals and exhibit swarming behavior during the reproductive phase. Giant Honeybees are excellent pollinators and play crucial roles in the ecosystems where they are found.",
+
+        "Favorite flowers": [
+            {
+                "flowerName": "Neem",
+                "description": "The small, white flowers of the Neem tree are favored by Apis cerana for their nectar.",
+                "flowerImageUrl":"https://onszaden.com//Files/10/221000/221010/ProductPhotos/Large/1763410857.jpg"
+            },
+            {
+                "flowerName": "Ashoka Tree",
+                "description": "The vibrant red flowers of Erythrina variegata are another favorite of Apis florea. In Nepali, this tree is known as Mandar).",
+              "flowerImageUrl":"https://www.ugaoo.com/cdn/shop/articles/Saraca-asoka.jpg?v=1661874643"
+            },
+            {
+                "flowerName": "Lantana camara",
+                "description": "The colorful clusters of flowers on the Lantana plant are also visited by Apis cerana. In Nepali, Lantana is known as (Chandni) or(Sugandhan).",
+
+                "flowerImageUrl":"https://iasbaba.com/wp-content/uploads/2023/01/lc11.jpg"
+            }
+        ]
+    },
+{
+        "id": 5,
+        "name": "European honey bee",
+      "scientific name": "Apis mellifera",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_Western_honey_bee.jpg",
+        "Appearance": " Apis mellifera, commonly known as the Western Honeybee, shares similarities with other honeybee species but is often slightly larger. They have a compact body with golden-yellow coloration and darker bands across the abdomen. Their body size typically ranges from 12 to 15 millimeters.",
+          "Habitat": "Western Honeybees are native to Europe, Africa, and the Middle East but have been introduced to various regions worldwide for pollination and honey production. They are highly adaptable and can thrive in a range of habitats, including forests, grasslands, and agricultural landscapes.",
+          "Behavior": "Apis mellifera is known for its social behavior and efficient foraging strategies. They live in colonies with a queen, drones, and worker bees, with specialized roles for each member. Western Honeybees are extensively managed by beekeepers for honey production and pollination services, making them one of the most economically important bee species globally.",
+
+        "Favorite flowers": [
+            {
+                "flowerName": "Rattlepod",
+                "description": "Both Apis dorsata and Apis mellifera are attracted to the flowers of various Crotalaria species. In Nepali, Crotalaria is known as Akasu.",
+                "flowerImageUrl":"https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRqpxJZFSH4Mah563uVrDDbxYnzrph7nMPuV39ERp00gMSnI9dHVq4B9YqUJQcLfB2K2ltTERl_Ti9L7H8"
+            },
+            {
+                "flowerName": "Eucalyptus spp.",
+                "description": "The flowers of Eucalyptus trees are also visited by both Giant Honeybees and Western Honeybees. In Nepali, Eucalyptus is known as Nilgiri.",
+              "flowerImageUrl":"https://www.ugaoo.com/cdn/shop/articles/Saraca-asoka.jpg?v=1661874643"
+            },
+            {
+                "flowerName": "Trifolium spp.",
+                "description": "Clover flowers are popular for both Apis dorsata and Apis mellifera. In Nepali, Trifolium is known as Banmara.",
+                "flowerImageUrl":"https://www.thespruce.com/thmb/u5pQqkGM51lG7fgCsX7AHticsno=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/growing-white-clover-trifolium-repens-5101230-hero-e134e5d705eb48309508c55110bff91d.jpg"
+            }
+        ]
+    },
+   {
+        "id": 6,
+        "Common name": "Arcifera Stingless Bee",
+     "Scientific name":  "Lepidotrigona arcifera",
+        "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/57160358/medium.jpg",
+        "Appearance": "It is a petite and striking insect. With a body length ranging from 3 to 5 millimeters, these bees exhibit a glossy black exoskeleton complemented by bands of vibrant yellow or orange. Their intricate wings shimmer with iridescence under the sunlight, adding to their captivating beauty.",
+     "Habitat": "These fascinating creatures thrive in the lush tropical forests of Southeast Asia, where they can be found buzzing amidst the foliage of diverse ecosystems. Lepidotrigona arcifera colonies often establish their nests in hollow tree trunks, natural crevices, or man-made structures, creating intricate and well-organized hives to shelter their queen and offspring.",
+
+
+          "Behavior": "Lepidotrigona arcifera colonies are characterized by their harmonious and industrious nature. Working tirelessly as a cohesive unit, these stingless bees engage in intricate communication and division of labor to ensure the survival and prosperity of their community. They forage tirelessly for nectar and pollen, playing a vital role in pollination within their habitats.",
+        "Favorite flowers": [
+            {
+                "flowerName": "Malabar Melastome",
+                "description": "With its striking purple blossoms and sweet nectar, the Malabar Melastome is a favorite among Lepidotrigona arcifera. These bees eagerly visit its flowers, transferring pollen as they collect resources for their hive.",
+                "flowerImageUrl":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTQoBWzYGbXEtF7beN1EJ0mvqPe5nc8ulsR-UjEwIrd1G_2AIl"
+            },
+            {
+                "flowerName": "Dillenia suffruticosa",
+                "description": "The Simpoh Air, with its large, showy yellow flowers, is another beloved plant of Lepidotrigona arcifera. Its abundant nectar reserves attract these bees, which play a crucial role in pollinating this iconic tropical shrub.",
+                "flowerImageUrl":"https://static.inaturalist.org/photos/82667466/large.jpg"
+            },
+            {
+                "flowerName": "Dendrobium speciosum",
+                "description": "Lepidotrigona arcifera are also drawn to the delicate beauty of the Rock Orchid. With its intricate white blooms and sweet fragrance, this orchid provides a rich source of nectar for these industrious bees, contributing to the orchid's pollination and propagation.",
+                "flowerImageUrl":"https://resources.austplants.com.au/wp-content/uploads/d-speciosum-short-canes-e1684421540301.jpeg"
+            }
+        ]
+    }
+
+        
+  
+  
+]
