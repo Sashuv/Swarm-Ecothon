@@ -41,13 +41,12 @@
     max-width: 100%;
     max-height: 100%;
     border-radius: 10px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.3); /* Added box-shadow on hover */
     transition: transform 0.3s ease, box-shadow 0.3s ease; /* Added transition for box-shadow */
 }
 
 .bee-link:hover .bee-image {
     transform: scale(1.05); /* Slight scale on hover */
-    
+    opacity: 0.5;
 }
 
 .bee-item:hover .bee-name {
