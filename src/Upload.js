@@ -21,8 +21,4 @@ function Upload() {
     );
 }
 
-<<<<<<< HEAD
 export default Upload;
-=======
-export default Upload;
->>>>>>> 8ea440b0 (Fixed Maps, Css)

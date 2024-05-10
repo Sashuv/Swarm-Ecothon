@@ -1,54 +1,9 @@
-<<<<<<< HEAD
-.container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    /* background-image: url('https://thumb.ac-illust.com/69/69f7a1ed44c85bdde26f82d3d07f8e61_t.jpeg'); */
-    background-color: rgb(255, 221, 109);
-    width: 100%;
-    height: 100vh;
-    overflow: hidden;
-  }
-  
-
-.Button-Group {
-    display: flex;
-    flex-direction: row;
-}
-
-.bee-button {
-    margin: 50px;
-    width: 120px;
-    height: 50px;
-    background-color: #ffcc00; 
-    color: #000000; /* black */
-    border: none;
-    /* padding: 10px 20px; */
-    font-size: 16px;
-    font-weight: bold;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s;
-  }
-  
-  .bee-button:hover {
-    transition: cubic-bezier(0.6, 0.04, 0.98, 0.335);
-    width: 120px;
-    height: 50px;
-    background-color: #000000; /* gold */
-    color: white;
-  }
-  
-  .bee-button:active {
-    background-color: #ffd700; /* gold */
-    transform: translateY(2px);
-  }
-  
-
-=======
 /* Container styling */
 .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   font-family: 'Arial', sans-serif;
   width: 100%;
   max-width: 960px;
@@ -169,4 +124,3 @@ audio {
 .leaflet-popup-content p {
   margin: 5px 0; /* Margin for paragraph spacing */
 }
->>>>>>> 8ea440b0 (Fixed Maps, Css)

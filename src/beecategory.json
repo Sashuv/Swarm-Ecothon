@@ -1,26 +1,6 @@
 [
     {
         "id": 1,
-<<<<<<< HEAD
-        "name": "Honey Bee",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_Western_honey_bee.jpg",
-        "description": "Honey bees are known for their production of honey and are vital pollinators.",
-        "flowers": [
-            {
-                "flowerName": "flower1",
-                "description": "description1",
-                "flowerImageUrl":"1.jpg"
-            },
-            {
-                "flowerName": "flower2",
-                "description": "description2",
-                "flowerImageUrl":"2.jpg"
-            },
-            {
-                "flowerName": "flower3",
-                "description": "description3",
-                "flowerImageUrl":"3.jpg"
-=======
         "name": "Himalayan giant honey bee",
         "Scientificname": "Apis laboriosa",
         "imageUrl": "https://inaturalist-open-data.s3.amazonaws.com/photos/108395224/medium.jpg",
@@ -48,32 +28,11 @@
                 "flowerImageUrl": "https://extension.illinois.edu/sites/default/files/styles/600_x_440_crop/public/2023-08/web_flowers_monkshood_1200x880_gettyimages-846069016.jpg?itok=AqHttAJx",
                 "environments": ["Mountainous regions", "Shaded areas", "Moist soil conditions", "Cool climate"],
                 "benefits": ["Medicinal properties", "Attracts pollinators", "Adds dramatic color to gardens", "Historically used in poisons and potions"]
->>>>>>> 8ea440b0 (Fixed Maps, Css)
             }
         ]
     },
     {
         "id": 2,
-<<<<<<< HEAD
-        "name": "Bumble Bee",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_Western_honey_bee.jpg",
-        "description": "Bumble bees are larger than honey bees and are also excellent pollinators.",
-        "flowers": [
-            {
-                "flowerName": "flower4",
-                "description": "description4",
-                "flowerImageUrl":"4.jpg"
-            },
-            {
-                "flowerName": "flower5",
-                "description": "description5",
-                "flowerImageUrl":"1.jpg"
-            },
-            {
-                "flowerName": "flower6",
-                "description": "description6",
-                "flowerImageUrl":"1.jpg"
-=======
         "name": "Red dwarf honey bee",
         "Scientificname": "Apis florea",
         "imageUrl": "https://indiabiodiversity.org/files-api/api/get/raw/observations//f7808fea-858a-4d85-8579-562a62983d89/97.JPG",
@@ -101,32 +60,11 @@
                 "flowerImageUrl": "https://www.learnseedsaving.com/wp-content/uploads/2021/10/amaranthus_caudatus.jpgjpg",
                 "environments": ["Warm climates", "Well-drained soil", "Full sun to partial shade", "Tolerates poor soil fertility"],
                 "benefits": ["Nutritious leaves and seeds", "Attracts a variety of pollinators", "Easy to grow", "Used in traditional dishes and herbal remedies"]
->>>>>>> 8ea440b0 (Fixed Maps, Css)
             }
         ]
     },
     {
         "id": 3,
-<<<<<<< HEAD
-        "name": "Carpenter Bee",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apis_mellifera_Western_honey_bee.jpg",
-        "description": "Carpenter bees are solitary bees that bore into wood to make their nests.",
-        "flowers": [
-            {
-                "flowerName": "flower7",
-                "description": "description7",
-                "flowerImageUrl":"1.jpg"
-            },
-            {
-                "flowerName": "flower8",
-                "description": "description8",
-                "flowerImageUrl":"1.jpg"
-            },
-            {
-                "flowerName": "flower9",
-                "description": "description9",
-                "flowerImageUrl":"1.jpg"
-=======
         "name": "Asian honeybee",
         "Scientificname": "Apis cerana",
         "imageUrl": "https://static.inaturalist.org/photos/2033079/large.jpg",
@@ -250,7 +188,6 @@
                 "flowerImageUrl": "https://resources.austplants.com.au/wp-content/uploads/d-speciosum-short-canes-e1684421540301.jpeg",
                 "environments": ["Subtropical to temperate regions", "Epiphytic or lithophytic conditions", "Bright indirect light", "Requires high humidity"],
                 "benefits": ["Highly ornamental", "Popular in horticulture", "Attracts bees and other pollinators", "Can be cultivated on trees or rocks"]
->>>>>>> 8ea440b0 (Fixed Maps, Css)
             }
         ]
     }
